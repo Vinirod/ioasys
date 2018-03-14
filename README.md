@@ -1,0 +1,2 @@
+# ioasys
+This mobile application project was developed in JAVA ANDROID STUDIO, using as back-end services integration and front-end RETROFIT, when the login data are entered in the email editText and password, if it is correct the data will be generated an access-token , which will allow the user to access the system. For access, enter the fields: e-mail: testeapple@ioasys.com.br password: 12341234
